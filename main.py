@@ -12,5 +12,10 @@ def main():
 
     p = pila.pop()
     p.print()
-    
+    p = pila.pop()
+    p.print()
+    p = pila.pop()
+    p.print()
+
+main()
 

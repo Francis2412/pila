@@ -8,7 +8,7 @@ class Producto:
         self.next = None
 
     def print(self):
-        print(f"PRODUCTO -> ID ={self.id} | NOMBRE = {self.nombre} | PRECIO + {self.precio} | STOCK = {self.stock}")
+        print(f"PRODUCTO -> ID ={self.id} | NOMBRE = {self.nombre} | PRECIO = {self.precio} | STOCK = {self.stock}")
 
  
 class Stack:
